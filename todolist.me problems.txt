@@ -1,4 +1,0 @@
--Permanent requestAnimationFrame caused by contantly running animations in the javascript caused by the scrolling list to the right
--DOM event message calls are used which implies that everything you do is connected to the server and makes the website wait on a response from it before showing the results of what you are doing on the page
-
-The website of the competitor seems to have big performance dips for multiple reasons. The first and bigest one is the list bar that always scrolls with you 
